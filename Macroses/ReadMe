@@ -1,0 +1,1 @@
+Файл с расширением .codesnippet нужно добавить в ~/Library/Developer/Xcode/UserData/CodeSnippets/, перезапустить xCode, открыть библиотеку сниппетов, нажав ⌃⌥⌘2, найти usefulDefines, перетащить их в .pch в проекте

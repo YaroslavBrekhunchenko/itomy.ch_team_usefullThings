@@ -1,0 +1,8 @@
+Файлы с расширением codesnippet нужно добавить в ~/Library/Developer/Xcode/UserData/CodeSnippets/, перезапустить xCode и начать вводить один из приведенных ниже шорткатов, по идее должно высветиться окно с автодополнением
+
+table - dataSource && delegates 
+propassign - создание property assign
+method - метод возвращающий void
+animblock - блок с анимацией 
+notification_observe - добавить наблюдателя
+notification_post - отправить уведомление
